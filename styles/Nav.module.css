@@ -1,0 +1,17 @@
+.nav {
+  color: #fff;
+  background-color: black;
+  height: 2rem;
+}
+
+.nav ul {
+  display: flex;
+  justify-content: flex-end;
+  align-content: center;
+  align-items: center;
+  list-style: none;
+  height: inherit;
+}
+.nav ul li {
+  padding: 0rem 1rem;
+}
